@@ -58,14 +58,6 @@ export default function Navebar() {
           Vegetables
         </a>
       </li>
-      <li>
-        <a
-          className=" dark:hover:bg-slate-100 dark:text-black md:dark:text-white dark:hover:text-black"
-          href=""
-        >
-          About
-        </a>
-      </li>
     </>
   );
   
